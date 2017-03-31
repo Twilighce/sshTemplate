@@ -1,3 +1,6 @@
 # sshTemplate
 
-SSH项目模板：jdk7 + Tomcat7 + Struts2 + Spring4 + Hibernate5
+SSH项目模板：jdk7 + Tomcat7 + Struts2 + Spring4 + Hibernate5  
+
+编译器是 Eclipse  
+
